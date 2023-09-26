@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="tbs_preload_x5_recorder" value="0" />
+    <int name="tbs_preload_x5_counter" value="0" />
+    <int name="tbs_preload_x5_version" value="46248" />
+</map>

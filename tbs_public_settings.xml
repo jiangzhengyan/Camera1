@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="key_spa_ad_page_report" value="true" />
+    <int name="key_environment_type" value="2" />
+    <boolean name="key_bugly_enable" value="false" />
+    <int name="TBS_COMMON_AD_SWITCH_INTERGE_TEST" value="1" />
+    <int name="key_tbs_info_upload_argument_apn" value="65535" />
+    <int name="key_extend_rule_version" value="31" />
+    <int name="ADR_MTT_MINIPROGRAM_PRELOAD_IN_APPINIT" value="1" />
+    <boolean name="�&#5;�������&#10;�Ē10&#24;/AK�y�z�&#31;�1z�SN�" value="false" />
+    <int name="key_android_enable_qua2_v3" value="1" />
+    <int name="key_prerender_swtich" value="1" />
+    <int name="ANDROID_FILE_READER_ADV_FEATURE_GRAY" value="1" />
+    <string name="MTT_XNN_SUMMARY_DOMAIN_REPORT_TYPE_SSS">none</string>
+    <string name="TBS_AD_APP_INSTALL_RETURN_RATIO_CONTROL">[1,0]</string>
+    <int name="WIFI_VIDEO_MASTER_SWITCH" value="0" />
+    <int name="ANDROID_MIDPAGE_INST_BLOCK_DLG" value="1" />
+    <int name="key_download_intercept_switch" value="2" />
+    <int name="key_qvod_support_type" value="1" />
+    <string name="key_miniqb_stat_version_name">20201230</string>
+    <string name="key_tbs_httpdns_encryptkey">jZOB/Em=</string>
+    <int name="MTT_CORE_DEADCODE_UPLOAD_DUMP_ENABLE" value="0" />
+    <boolean name="key_disk_cache_size" value="true" />
+    <string name="key_tbs_former_tbscore_version">046248</string>
+    <boolean name="key_isinwup_upload_pv" value="false" />
+    <string name="TBS_AD_DOWNLOAD_INFO_WEIGHT_SSS">{&quot;ugad&quot;:35, &quot;qbsoft&quot;:35, &quot;ams&quot;:20, &quot;none&quot;:10, &quot;showTimeWeight&quot;:5, &quot;downLoadWeight&quot;:5}</string>
+    <int name="TBS_ENCOURAGE_WINDOW_SWITCH" value="0" />
+    <string name="TBS_UG_SILENT_DOWNLOAD_KB_CLIPBOARD_SSS">σσqnreadingpaste://tab_reading?tab=kuaibao&amp;chlid=daily_timeline&amp;function=liulanqi_plt&amp;kd_channel_from=LIULANQI_PLT_TBS_AD&amp;refer=LIULANQI_PLT_TBS_ADσσ</string>
+    <int name="key_direct_adblock_switcher_level" value="1" />
+    <int name="TWE_CONFIG_CUSTOM_FONT" value="1" />
+    <boolean name="key_has_ever_login" value="true" />
+    <int name="key_wup_pli_data_id" value="2" />
+    <int name="ADR_MTT_MINIPROGRAM_UPLOAD_SEND_AUTH_STATE_1_FLAG" value="0" />
+    <int name="key_download_in_tencentfile_enable" value="0" />
+    <int name="MINIQB_VIDEO_DEFAULT_SCREEN" value="1" />
+    <boolean name="TBS_OPEN_LANDPAGE_SWITCH" value="true" />
+    <int name="ADR_MTT_MINIPROGRAM_UPLOAD_CHECK_AUTH_FLAG" value="0" />
+    <int name="key_preference_update_time" value="1695007990" />
+    <int name="HLS_PLAY_WITH_SYS_MEDIA_PLAYER_ENABLED" value="0" />
+    <string name="MTT_XNN_SUMMARY_ABTEST_OPTIONS_SSS">{&quot;x&quot;:&quot;34&quot;, &quot;y&quot;:&quot;37&quot;, &quot;z&quot;:&quot;63&quot;, &quot;w&quot;:&quot;83&quot;}</string>
+    <boolean name="key_last_req_from_test_evn_domainList" value="false" />
+    <boolean name="key_should_merger_qb_guid" value="true" />
+    <string name="key_extend_rule_md5">c2ee1161a76dd0a71251f62b5b38d684</string>
+    <int name="MTT_CORE_DEADCODE_UPLOAD_BEACON_ENABLE" value="1" />
+    <boolean name="key_extend_rule_pdated" value="true" />
+    <int name="key_tpg_enabled" value="1" />
+    <int name="MTT_CORE_RENDER_INFO_ENABLE" value="1" />
+    <long name="key_last_check_wup_config_date" value="1695016738600" />
+    <int name="key_notify_download_qb_times_limit" value="1000" />
+    <int name="KEY_TRANSLATE_SECRETID" value="0" />
+    <int name="ANDROID_FILE_READER_LIST_ALL_FILE_GRAY" value="1" />
+    <string name="MTT_CORE_CONFIG_EMBEDDED_WIDGET_INFO">{&quot;list&quot;:[{&quot;name&quot;:&quot;MTT_CORE_EMBEDDED_WIDGET_INFO&quot;,&quot;enable&quot;:1,&quot;config&quot;:{&quot;sampleRatio&quot;:&quot;1000&quot;,&quot;isSingleTable&quot;:&quot;false&quot;}}]}</string>
+    <int name="CUSTOM_HOSTS_SWITCH" value="1" />
+    <string name="TBS_TRANSLATE_PARAMS_SOGOU">{&quot;TRANSLATE_SECRETKEY&quot;:&quot;/DsIj74shX7oFNW3IlsjEGFVV/Z/TmK75yRb82jJq+96wC0R4YlPbuGoLRJFkMe8&quot;, &quot;TRANSLATE_SECRETID&quot;:&quot;X95KPiwG389BefQUvJkiv3zG0J4kbvD0&quot;,&quot;LeastMatchedRate&quot;:0.600,&quot;MinTranslateLength&quot;:50,&quot;mChineseMatchedRate&quot;:0.600}</string>
+    <int name="TBS_QBPUSH_START_SERVICE_SWITCH" value="0" />
+    <int name="ADR_MTT_MINIPROGRAM_PRELOAD_COOLING_TIME" value="0" />
+    <int name="TBS_PARTITION_ALLOC_GIGACAGE_DISABLED" value="1" />
+    <int name="ANDROID_PUBLIC_PREFS_FEATURE_SWITCHER_LOGIN_BY_COMBINE_AUTH" value="1" />
+    <string name="MTT_XNN_SWL_INFO_SSS">{&quot;key&quot;:&quot;kk/vwNH95V0Ms5+VONd8JA==&quot;, &quot;iv&quot;:&quot;nl5+YdkvKFR/PRI7&quot;}</string>
+    <string name="key_prerender_package_names">com.tencent.mtt;com.tencent.mobileqq;com.tencent.tbs;com.tencent.liveassistant;com.tencent.qqumall;com.tencent.qgame;com.tencent.nijigen;com.tencent.mtt.lt;com.bcm.poc</string>
+    <int name="ADR_MTT_MINIPROGRAM_RECORD_SWITCH_KEY" value="0" />
+    <boolean name="key_jni_register_enabled" value="true" />
+    <int name="TBS_UG_SILENT_DOWNLOAD_KB" value="0" />
+    <long name="key_last_check_basic_config_date0" value="1695016738576" />
+    <string name="MTT_XNN_GPU_MIN_SDK_SSS">{&quot;min_ver&quot;:&quot;23&quot;}</string>
+    <int name="TBS_UG_SILENT_DOWNLOAD_KB_RADIO" value="5" />
+    <int name="TBS_COMMON_AD_SWITCH_FLOAT_TEST" value="0" />
+    <int name="TBS_DETECT_APK_STRICT" value="1" />
+    <int name="TBS_TRANSLATE_PARAMS" value="0" />
+    <int name="TBS_COMMON_AD_SWITCH_LONG_TEST" value="1000" />
+    <boolean name="key_tbs_ad_special_permission" value="false" />
+    <int name="ANDROID_PUBLIC_PREFS_LARGE_BITMAP" value="1" />
+    <string name="MTT_XNN_SUMMARY_OPTIONS_SSS">{&quot;enable_summary&quot;:&quot;true&quot;,&quot;force_summary&quot;:&quot;false&quot;,&quot;enable_extract_keywords&quot;:&quot;true&quot;,&quot;add_title_to_content&quot;:&quot;true&quot;,&quot;characters_count_max&quot;:&quot;128&quot;,&quot;content_size_min&quot;:&quot;0&quot;,&quot;count_min&quot;:&quot;-1&quot;,&quot;count_max&quot;:&quot;-1&quot;,&quot;count_step&quot;:&quot;1&quot;}</string>
+    <string name="MTT_XNN_OPTIONS_SSS">{&quot;enabled&quot;:&quot;true&quot;}</string>
+    <string name="key_tbs_httpdns_server_ip">119.29.29.29</string>
+    <int name="key_save_webpage_in_long_press_switch" value="0" />
+    <string name="MTT_CORE_CONFIG_RENDER_ERROR">{&quot;list&quot;:[{&quot;name&quot;:&quot;MTT_CORE_RENDER_ERROR&quot;,&quot;enable&quot;:1,&quot;config&quot;:{&quot;sampleRatio&quot;:&quot;100&quot;,&quot;isSingleTable&quot;:&quot;false&quot;}}]}</string>
+    <int name="MAPPED_FONT_ENABLED" value="1" />
+    <int name="VIDEO_DOWNLOAD_QB_SILENTLY" value="0" />
+    <boolean name="key_tbs_info_upload_needproxy" value="true" />
+    <boolean name="key_can_use_adblock_under_direct" value="true" />
+    <int name="key_night_mode_in_long_press_switch" value="0" />
+    <int name="key_can_convert_get_to_post" value="2" />
+    <int name="ANDROID_PUBLIC_PREFS_FEATURE_SWITCHER_MINI_NEW_AUTH" value="1" />
+    <string name="MTT_CORE_CONFIG_WEBGL">{&quot;list&quot;:[{&quot;name&quot;:&quot;MTT_CORE_WEBGL&quot;,&quot;enable&quot;:1,&quot;config&quot;:{&quot;sampleRatio&quot;:&quot;100&quot;,&quot;isSingleTable&quot;:&quot;false&quot;}}]}</string>
+    <int name="KEY_TRANSLATE_SECRETKEY" value="0" />
+    <int name="TBS_COMMON_AD_SWITCH_STRING_TEST" value="0" />
+    <string name="key_tbs_webview_search_engine_url">http://m.sogou.com/web/searchList.jsp?pid=sogou-clse-2996962656838a97&amp;e=1427&amp;g_f=123&amp;keyword=</string>
+    <int name="key_android_enable_qua1" value="0" />
+    <string name="MTT_XNN_SWITHABLE_REPORT_SSS">false</string>
+    <boolean name="key_last_req_from_test_evn_preference" value="false" />
+    <int name="ANDROID_PUBLIC_PREFS_FEATURE_SWITCHER_MINI_SO_DIALOG" value="1" />
+    <int name="TBS_COMMON_AD_SWITCH_BOOLEAN_TEST" value="1" />
+    <int name="ANDROID_MIDPAGE_INSTALL_QB_TIPS" value="0" />
+    <int name="KEY_ENABLE_WEBMEDIAPLAYER_SWITCH" value="1" />
+    <int name="PREFERENCE_TYPE_WUP_ENVIRONMENT" value="0" />
+    <int name="TBS_DISABLE_CLIPBOARD_ANTI_HIJACJING" value="1" />
+    <boolean name="key_tbs_info_upload_argument_switcher" value="true" />
+    <string name="TBS_UG_SILENT_DOWNLOAD_KB_SCHEMA_SSS">qnreading://tab_reading?tab=kuaibao&amp;chlid=daily_timeline&amp;from=LIULANQI_PLT_TBS_AD&amp;refer=LIULANQI_PLT_TBS_AD</string>
+    <int name="KEY_DISABLE_VIEW_PORT_META_FOR_PC_UA" value="0" />
+    <boolean name="key_enable_logs" value="true" />
+    <int name="ANDROID_FILE_READER_EDIT_BUTTON_GRAY" value="1" />
+    <string name="TBS_AD_STATS_RATIO_CONTROL">[5000,5100]</string>
+    <boolean name="key_preference_enable_rsa_aes_encrypt" value="true" />
+    <int name="TBS_AD_REINSTALL_TIPS_SHOW_TIME" value="5" />
+    <int name="IOS_USE_SMART_ADFILTER" value="0" />
+</map>

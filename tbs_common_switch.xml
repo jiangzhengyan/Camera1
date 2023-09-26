@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="key_tbs_general_feature_switch_click_image_scan" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_tbs_clipboard">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_intercept_download_request">046248</string>
+    <int name="key_tbs_general_feature_switch_tbs_jsapi" value="1" />
+    <int name="key_tbs_general_feature_switch_jsapi_enable_install_app" value="1" />
+    <int name="key_tbs_general_feature_switch_close_hercules" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_refresh">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_splice_miniqb_ad">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_headsup_taobao_link">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_game_embedded_framework_load_wxpay_background">046248</string>
+    <int name="key_tbs_general_feature_switch_is_pure_increase" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_download_intercept_plugin">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_headsup_transcoding_page">046248</string>
+    <int name="key_tbs_general_feature_switch_long_press_menu_open_in_browser" value="0" />
+    <string name="key_tbs_general_feature_switch_core_string_version_ug_close_2021">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_jsapi_enable_start_download">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_native_show_push">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_bubble_ad">046248</string>
+    <int name="key_tbs_general_feature_switch_enable_beacon_qimei36" value="1" />
+    <int name="key_tbs_general_feature_switch_game_embedded_framework_load_wxpay_background" value="0" />
+    <int name="key_tbs_general_feature_switch_long_press_menu_night_mode" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_qb_silent_download_default">046248</string>
+    <int name="key_tbs_general_feature_switch_qb_silent_download_default" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_reuse_qbapk">046248</string>
+    <int name="key_tbs_general_feature_switch_headsup_transcoding_page" value="0" />
+    <int name="key_tbs_general_feature_switch_file_chooser_tbs" value="0" />
+    <int name="key_tbs_general_feature_switch_splice_miniqb_ad" value="1" />
+    <int name="key_tbs_general_feature_switch_new_long_press_download_intercept_open_qb_method" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_file_reader">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_is_pure_increase">046248</string>
+    <int name="key_tbs_general_feature_switch_midpage_translate_onlongpress" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_clear_qb_silent_download_file">046248</string>
+    <int name="key_tbs_general_feature_switch_invoke_qb_night_mode_and_fullscreen" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_long_press_menu_night_mode">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_long_press_menu_select_copy">046248</string>
+    <int name="key_tbs_general_feature_switch_enable_reinstall_tips_for_ad" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_search_on_long_press">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_enable_beacon_qimei36">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_headsup_risk_website">046248</string>
+    <int name="key_tbs_general_feature_switch_jsapi_enable_start_download" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_new_qb_download_url_style_https">046248</string>
+    <int name="key_tbs_general_feature_switch_intercept_download_request" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_new_qb_download_url_style">046248</string>
+    <int name="key_tbs_general_feature_switch_splice_ad" value="1" />
+    <int name="key_tbs_general_feature_switch_long_press_menu_select_copy" value="1" />
+    <int name="key_tbs_general_feature_switch_reuse_qbapk" value="0" />
+    <int name="key_tbs_general_feature_switch_native_show_push" value="1" />
+    <int name="key_tbs_general_feature_switch_mid_page_qb_search_onlongpress" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_tbs_jsapi">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_get_server_switch_success">046248</string>
+    <int name="key_tbs_general_feature_switch_notify_ug_background" value="0" />
+    <int name="key_tbs_general_feature_switch_headsup_taobao_link" value="0" />
+    <int name="key_tbs_general_feature_switch_clear_qb_silent_download_file" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_notify_ug_background">046248</string>
+    <int name="key_tbs_general_feature_switch_long_press_menu" value="1" />
+    <int name="key_tbs_general_feature_switch_bubble_miniqb_ad" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_invoke_qb_night_mode_and_fullscreen">046248</string>
+    <int name="key_tbs_general_feature_switch_new_qb_download_url_style_https" value="1" />
+    <int name="key_tbs_general_feature_switch_enable_beacon_qimei" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_mid_page_qb_openbrowser_onlongpress">046248</string>
+    <int name="key_tbs_general_feature_switch_file_reader" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_active_weishi_headsup">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_file_chooser_tbs">046248</string>
+    <int name="key_tbs_general_feature_switch_bubble_ad" value="1" />
+    <int name="key_tbs_general_feature_switch_new_qb_download_url_style" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_close_hercules">046248</string>
+    <int name="key_tbs_general_feature_switch_enable_webcore_md5_check" value="1" />
+    <int name="key_tbs_general_feature_switch_get_server_switch_success" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_midpage_translate_onlongpress">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_enable_beacon_qimei">046248</string>
+    <int name="key_tbs_general_feature_switch_download_intercept_plugin" value="1" />
+    <int name="key_tbs_general_feature_switch_search_on_long_press" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_click_image_scan">046248</string>
+    <int name="key_tbs_general_feature_switch_mid_page_qb_openbrowser_onlongpress" value="1" />
+    <string name="key_tbs_general_feature_switch_str_ug_close_2021">{&quot;ug&quot;:&quot;close&quot;}</string>
+    <int name="key_tbs_general_feature_switch_active_weishi_headsup" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_long_press_menu_refresh">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_jsapi_enable_install_app">046248</string>
+    <int name="key_tbs_general_feature_switch_tbs_clipboard" value="0" />
+    <int name="key_tbs_general_feature_switch_translate_on_long_press" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_long_press_menu">046248</string>
+    <int name="key_tbs_general_feature_switch_headsup_risk_website" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_translate_on_long_press">046248</string>
+    <int name="key_tbs_general_feature_switch_x5_sandbox_mode_enable" value="1" />
+    <string name="key_tbs_general_feature_switch_core_version_mid_page_qb_search_onlongpress">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_enable_webcore_md5_check">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_bubble_miniqb_ad">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_long_press_menu_open_in_browser">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_new_long_press_download_intercept_open_qb_method">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_enable_reinstall_tips_for_ad">046248</string>
+    <int name="key_tbs_general_feature_switch_refresh" value="0" />
+    <string name="key_tbs_general_feature_switch_core_version_x5_sandbox_mode_enable">046248</string>
+    <string name="key_tbs_general_feature_switch_core_version_splice_ad">046248</string>
+    <int name="key_tbs_general_feature_switch_long_press_menu_refresh" value="0" />
+</map>

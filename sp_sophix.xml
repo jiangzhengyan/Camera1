@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="happ_ishotfix" value="false" />
+    <string name="happ_version">7.5.1.1</string>
+    <string name="SP_SOPHIX_DEVICE_ID">ZQGkaPKmsPIDAAddf2YlbTyB</string>
+    <int name="hpatch_version" value="136265" />
+</map>
