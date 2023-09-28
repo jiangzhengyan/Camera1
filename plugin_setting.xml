@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <boolean name="key_plugin_list_insert_result_tbs" value="true" />
-    <string name="key_plugin_list_md5_tbs">f880d59ab7cbf025b1556586bd935ca0</string>
-    <boolean name="key_pluginlist_not_sync_tosvr_tbs046248" value="true" />
-    <string name="key_plugin_cpu_tye">NENO</string>
-    <long name="key_pluginlist_last_pull_pluignList_tbs" value="1695016739000" />
-</map>
