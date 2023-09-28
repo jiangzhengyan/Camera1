@@ -31,19 +31,37 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
 
         mSurfaceView = findViewById(R.id.surfaceView);
+        mSurfaceHolder = mSurfaceView.getHolder();
+        mSurfaceHolder.addCallback(new SurfaceHolder.Callback() {
+            @Override
+            public void surfaceCreated(SurfaceHolder holder) {
+                // 在需要使用相机的地方进行权限检查
+                if (ContextCompat.checkSelfPermission(MainActivity.this, Manifest.permission.CAMERA)
+                        != PackageManager.PERMISSION_GRANTED) {
+                    // 如果权限未被授予，则请求相机权限
+                    ActivityCompat.requestPermissions(MainActivity.this,
+                            new String[]{Manifest.permission.CAMERA},
+                            CAMERA_PERMISSION_REQUEST_CODE);
+                } else {
+                    // 如果权限已被授予，则直接打开相机
+                    openCamera();
+                }
+            }
+
+            @Override
+            public void surfaceChanged(SurfaceHolder holder, int format, int width, int height) {
+                // 在这里可以调整预览画面的大小和其他配置
+            }
+
+            @Override
+            public void surfaceDestroyed(SurfaceHolder holder) {
+                mCamera.stopPreview();
+                mCamera.release();
+            }
+
+        });
 
 
-        // 在需要使用相机的地方进行权限检查
-        if (ContextCompat.checkSelfPermission(this, Manifest.permission.CAMERA)
-                != PackageManager.PERMISSION_GRANTED) {
-            // 如果权限未被授予，则请求相机权限
-            ActivityCompat.requestPermissions(this,
-                    new String[]{Manifest.permission.CAMERA},
-                    CAMERA_PERMISSION_REQUEST_CODE);
-        } else {
-            // 如果权限已被授予，则直接打开相机
-            openCamera();
-        }
 
 
     }
@@ -79,33 +97,14 @@ public class MainActivity extends AppCompatActivity {
     // 打开相机的方法
     private void openCamera() {
         // 在这里实现打开相机的代码
-        mSurfaceHolder = mSurfaceView.getHolder();
-        mSurfaceHolder.addCallback(new SurfaceHolder.Callback() {
-            @Override
-            public void surfaceCreated(SurfaceHolder holder) {
-                mCamera = Camera.open(Camera.CameraInfo.CAMERA_FACING_FRONT);
-                mCamera.setDisplayOrientation(90);
-
-                try {
-                    mCamera.setPreviewDisplay(holder);
-                    mCamera.startPreview();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            }
-
-            @Override
-            public void surfaceChanged(SurfaceHolder holder, int format, int width, int height) {
-                // 在这里可以调整预览画面的大小和其他配置
-            }
-
-            @Override
-            public void surfaceDestroyed(SurfaceHolder holder) {
-                mCamera.stopPreview();
-                mCamera.release();
-            }
-
-        });
+        mCamera = Camera.open(Camera.CameraInfo.CAMERA_FACING_FRONT);
+        mCamera.setDisplayOrientation(90);
+        try {
+            mCamera.setPreviewDisplay(mSurfaceHolder);
+            mCamera.startPreview();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
 

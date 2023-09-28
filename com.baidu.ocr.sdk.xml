@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <int name="token_auth_type" value="2" />
-    <string name="token_json">{&quot;status&quot;:0,&quot;data&quot;:{&quot;access_token&quot;:&quot;24.ecc3719fad65894c09ad40bde0f74aa2.2592000.1697678787.282335-24169951&quot;,&quot;expires_at&quot;:1697678187,&quot;from_cache&quot;:true,&quot;expires_in&quot;:2586793,&quot;lic&quot;:&quot;bUE3GXvr9CxwmlZ\/CAVm2duPuYhDPFr9aRkHx1+JhjCUoeQ74FKACQ2GEGD1QGp1apQdQ2n2\/jYu+\/jrTPEb+URAckUeG6GUalY6aJcz9Do=&quot;},&quot;log_id&quot;:&quot;2594354753&quot;}</string>
-    <long name="token_expire_time" value="1697678187480" />
-</map>

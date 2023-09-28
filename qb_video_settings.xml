@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <int name="video_litewnd_enabled" value="0" />
-    <int name="video_preload_enabled" value="0" />
-    <int name="video_open_adv_url_by_miniqb" value="-1" />
-</map>
