@@ -1,4 +1,4 @@
-package com.ca.camera;
+package com.ca.camera1;
 
 import android.hardware.Camera;
 import android.view.SurfaceHolder;
