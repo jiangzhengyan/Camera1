@@ -1,4 +1,4 @@
-## 使用Camera+SurfaceView打开摄像头
+## 使用Camera+SurfaceView打开摄像头(一)
 
 Camera是已经过时的类,本篇使用的就是过时的Camera,需要查看最新的Camera2,请查看仓库(Camera2)
 
