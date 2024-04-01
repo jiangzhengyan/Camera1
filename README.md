@@ -111,4 +111,4 @@ Camera是已经过时的类,本篇使用的就是过时的Camera,需要查看最
 ```
 3.github代码仓库地址
 [github地址点击跳转](https://github.com/jiangzhengyan/Camera1)
-欢迎指正
+欢迎指正。
