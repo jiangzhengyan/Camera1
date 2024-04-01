@@ -1,4 +1,6 @@
 ## 使用Camera+SurfaceView打开摄像头
+
+Camera是已经过时的类,本篇使用的就是过时的Camera,需要查看最新的Camera2,请查看仓库(Camera2)
 1,效果图如下
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/e7b80a45adf4496f882316a7d6c0b2b1.jpeg)
