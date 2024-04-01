@@ -10,8 +10,6 @@ import android.view.SurfaceView;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 
-import com.smart.camera1.R;
-
 import java.io.IOException;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -62,8 +60,6 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
-
-
 
 
     }
