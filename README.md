@@ -1,5 +1,5 @@
 ## 使用Camera+SurfaceView打开摄像头
-1,效果图如下![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/04363640079a4f27bbe52c0fffac76a7.jpeg)
+1,效果图如下![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/e7b80a45adf4496f882316a7d6c0b2b1.jpeg)
 
 2,代码解析
 
