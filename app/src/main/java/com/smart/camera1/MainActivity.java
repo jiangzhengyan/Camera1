@@ -1,4 +1,4 @@
-package com.ca.camera1;
+package com.smart.camera1;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -9,6 +9,8 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
+
+import com.smart.camera1.R;
 
 import java.io.IOException;
 
